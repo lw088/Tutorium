@@ -1,0 +1,91 @@
+from,to,weight
+Luna,Robin,5
+Luna,Ina,4
+Luna,Emma,3
+Luna,Vanessa,3
+Luna,Cristian,3
+Luna,Timo ,2
+Luna,Justus ,2
+Luna,Dana,3
+Luna,Luca,4
+Robin,Luna,5
+Robin,Ina,3
+Robin,Emma,2
+Robin,Vanessa,2
+Robin,Cristian,4
+Robin,Timo ,2
+Robin,Justus ,4
+Robin,Dana,2
+Robin,Luca,4
+Ina,Luna,4
+Ina,Robin,3
+Ina,Emma,3
+Ina,Vanessa,3
+Ina,Cristian,5
+Ina,Timo ,2
+Ina,Justus ,2
+Ina,Dana,1
+Ina,Luca,2
+Emma,Luna,3
+Emma,Robin,2
+Emma,Ina,3
+Emma,Vanessa,3
+Emma,Cristian,2
+Emma,Timo ,5
+Emma,Justus ,1
+Emma,Dana,1
+Emma,Luca,2
+Vanessa,Luna,3
+Vanessa,Robin,2
+Vanessa,Ina,3
+Vanessa,Emma,3
+Vanessa,Cristian,2
+Vanessa,Timo ,2
+Vanessa,Justus ,1
+Vanessa,Dana,1
+Vanessa,Luca,3
+Cristian,Robin,4
+Cristian,Ina,5
+Cristian,Emma,2
+Cristian,Vanessa,2
+Cristian,Luna,3
+Cristian,Timo ,2
+Cristian,Justus ,2
+Cristian,Dana,1
+Cristian,Luca,3
+Timo,Robin,2
+Timo,Ina,2
+Timo,Emma,5
+Timo,Vanessa,2
+Timo,Cristian,2
+Timo,Luna,2
+Timo,Justus ,1
+Timo,Dana,1
+Timo,Luca,2
+Justus,Robin,4
+Justus,Ina,2
+Justus,Emma,1
+Justus,Vanessa,1
+Justus,Cristian,2
+Justus,Timo ,1
+Justus,Luna,2
+Justus,Dana,1
+Justus,Luca,2
+Dana,Robin,2
+Dana,Ina,2
+Dana,Emma,1
+Dana,Vanessa,1
+Dana,Cristian,2
+Dana,Timo ,1
+Dana,Justus ,2
+Dana,Luna,3
+Dana,Luca,2
+Luca,Robin,4
+Luca,Ina,3
+Luca,Emma,2
+Luca,Vanessa,3
+Luca,Cristian,3
+Luca,Timo ,2
+Luca,Justus ,2
+Luca,Dana,2
+Luca,Luna,4
